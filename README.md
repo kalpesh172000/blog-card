@@ -32,8 +32,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/kalpesh172000/blog-card)
+- Live Site URL: [Live site URL](https://kalpesh172000.github.io/blog-card/)
 
 ## My process
 
